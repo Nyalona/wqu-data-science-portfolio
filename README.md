@@ -1,216 +1,188 @@
-WorldQuant University (WQU) — Applied Data Science Lab
+# WorldQuant University (WQU) | Applied Data Science Lab
 
-Building Practical Data Science and Machine Learning Skills Through Real-World Projects
+### Turning Data into Insights. Building Models. Solving Real-World Problems.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Program-Applied%20Data%20Science%20Lab-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects-08-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-In%20Progress-E59B28?style=for-the-badge" />
+</p>
 
+---
 
+## 👋 Overview
 
+Welcome to my **Applied Data Science Lab** repository!
 
-
-Overview
-
-This repository documents my learning journey through the WorldQuant University (WQU) Applied Data Science Lab, an eight-project, hands-on program designed to develop practical data science, statistical analysis, and machine learning skills.
+This repository documents my journey through the **WorldQuant University (WQU) Applied Data Science Lab**, an eight-project, hands-on program focused on developing practical skills in data science, statistical analysis, and machine learning.
 
 The lab provides an opportunity to apply theoretical concepts to real-world datasets across different industries and problem domains, including real estate, finance, environmental monitoring, disaster management, and experimentation.
 
-Rather than focusing exclusively on algorithms, the projects emphasize the complete data science workflow: data acquisition, extraction, cleaning, exploratory data analysis, feature engineering, statistical inference, model development, evaluation, and deployment.
+Rather than focusing exclusively on algorithms, the projects emphasize the complete data science workflow:
+
+**Data Acquisition → Data Cleaning → Exploratory Data Analysis → Feature Engineering → Statistical Analysis → Model Development → Evaluation → Deployment**
 
 My objective is to develop the technical proficiency and problem-solving capabilities required to transform raw data into meaningful insights and actionable predictions.
 
-Learning Objectives
+## 📊 Learning Objectives
 
-Throughout the eight projects, I will develop practical experience in:
+Throughout the eight projects, I aim to develop practical experience in the following areas:
 
-Data Wrangling: Loading, querying, cleaning, transforming, and preparing structured and unstructured datasets.
+| Area | What I'll Be Learning |
+|:---|:---|
+| 🧹 **Data Wrangling** | Loading, querying, cleaning, transforming, and preparing structured and unstructured datasets. |
+| 🔍 **Exploratory Data Analysis** | Identifying patterns, distributions, relationships, anomalies, and trends through statistical analysis and visualization. |
+| 📐 **Statistical Analysis** | Applying correlation analysis, hypothesis testing, and statistical inference to investigate data-driven questions. |
+| 🤖 **Machine Learning** | Developing supervised and unsupervised learning models for regression, classification, and clustering problems. |
+| 📈 **Time Series Analysis** | Analyzing temporal dependencies and building forecasting models. |
+| 🎯 **Model Evaluation** | Assessing model performance, addressing overfitting, and improving generalization. |
+| 🗄️ **Data Engineering** | Building ETL pipelines and working with different database technologies. |
+| ⚙️ **Software Engineering** | Applying test-driven development, reproducibility, and deployment practices to data science projects. |
+| 📊 **Data Communication** | Translating analytical findings into meaningful visualizations, dashboards, and recommendations. |
 
-Exploratory Data Analysis (EDA): Identifying patterns, distributions, relationships, anomalies, and trends through statistical analysis and visualization.
+---
 
-Statistical Analysis: Applying correlation analysis, hypothesis testing, and statistical inference to investigate data-driven questions.
+## 🚀 Project Portfolio
 
-Machine Learning: Developing supervised and unsupervised learning models for regression, classification, and clustering problems.
+The Applied Data Science Lab consists of eight self-paced projects organized into two learning units.
 
-Time Series Analysis: Analyzing temporal dependencies and building forecasting models.
+### Unit 1 | Foundations of Data Science and Machine Learning
 
-Model Evaluation: Assessing model performance, addressing overfitting, and improving generalization.
+*Building the foundations of data analysis, statistical modelling, and supervised machine learning.*
 
-Data Engineering: Building ETL pipelines and working with different database technologies.
+| # | Project | Key Competencies | Status |
+|:--:|:---|:---|:---:|
+| **01** | **[Mexican Real Estate Market](#)** | Data cleaning, EDA, visualization, correlation analysis | 🟢 Completed |
+| **02** | **[Buenos Aires Housing Price Prediction](#)** | Linear regression, Ridge, Lasso, regularization, overfitting | 🟠 In Progress |
+| **03** | **[Nairobi Air Quality Forecasting](#)** | MongoDB, time series, lagged regression, AR, ARMA | 🔴 Not Started |
+| **04** | **[Nepal Earthquake Damage Prediction](#)** | SQLite, logistic regression, decision trees, classification metrics | 🔴 Not Started |
 
-Software Engineering: Applying test-driven development, reproducibility, and deployment practices to data science projects.
+### Unit 2 | Advanced Machine Learning and Applied Data Science
 
-Data Communication: Translating analytical findings into meaningful visualizations, dashboards, and recommendations.
+*Exploring advanced predictive modelling, unsupervised learning, experimentation, and production-ready data science systems.*
 
-Project Portfolio
+| # | Project | Key Competencies | Status |
+|:--:|:---|:---|:---:|
+| **05** | **[Bankruptcy Prediction: Poland & Taiwan](#)** | Random forests, gradient boosting, class imbalance, classification pipelines | 🔴 Not Started |
+| **06** | **[Consumer Finance Segmentation](#)** | Unsupervised learning, clustering, interpretation | 🔴 Not Started |
+| **07** | **[Experimentation & Decision-Making](#)** | ETL, hypothesis testing, chi-square statistics, interactive dashboards | 🔴 Not Started |
+| **08** | **[Financial Volatility Modelling & Deployment](#)** | GARCH, test-driven development, reproducibility, deployment | 🔴 Not Started |
 
-The Applied Data Science Lab consists of eight self-paced projects organized into two units.
+**Project Progress**
 
-Unit 1 — Foundations of Data Science and Machine Learning
+- 🟢 Completed: 1
+- 🟠 In Progress: 1
+- 🔴 Not Started: 6
 
-Project
+*Project statuses will be updated as I progress through the lab.*
 
-Title
+---
 
-Key Competencies
-
-Status
-
-01
-
-Hands-on Data Science in the Mexican Real Estate Market
-
-Data cleaning, EDA, visualization, correlation analysis
-
-🟢 Completed
-
-02
-
-Predicting Housing Prices in Buenos Aires with Linear Regression
-
-Regression, Ridge, Lasso, regularization, overfitting
-
-🟠 In Progress
-
-03
-
-Time Series Modeling of Air Quality in Nairobi
-
-MongoDB, time series, lagged regression, AR, ARMA
-
-🔴 Not Started
-
-04
-
-Predicting Earthquake Damage in Nepal with Classification Models
-
-SQLite, logistic regression, decision trees, classification metrics
-
-🔴 Not Started
-
-Unit 2 — Advanced Machine Learning and Applied Data Science
-
-Project
-
-Title
-
-Key Competencies
-
-Status
-
-05
-
-Random Forests and Gradient Boosting for Bankruptcy Prediction
-
-Ensemble learning, class imbalance, classification pipelines
-
-🔴 Not Started
-
-06
-
-Unsupervised Learning for Consumer Finance Segmentation
-
-Clustering, unsupervised learning, interpretation
-
-🔴 Not Started
-
-07
-
-Experimentation and Decision-Making with WQU Applicant Data
-
-ETL, hypothesis testing, chi-square statistics, dashboards
-
-🔴 Not Started
-
-08
-
-Financial Volatility Modelling and End-to-End Deployment
-
-GARCH, test-driven development, reproducibility, deployment
-
-🔴 Not Started
-
-Project statuses will be updated as I progress through the lab.
-
-Technical Skills and Tools
+## 🛠️ Technical Skills & Tools
 
 The projects provide practical exposure to the following technologies, methodologies, and analytical techniques.
 
-Programming and Data Analysis
+### Programming & Data Analysis
 
-Python
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+</p>
 
-Pandas
+- Data cleaning and transformation
+- Data manipulation and preprocessing
+- Exploratory data analysis (EDA)
 
-NumPy
+### Data Visualization
 
-Data cleaning and transformation
+<p>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat" />
+</p>
 
-Exploratory data analysis
+- Statistical visualization
+- Distribution and correlation analysis
+- Interactive dashboards
 
-Data Visualization
+### Statistical Analysis
 
-Matplotlib
+- Descriptive statistics
+- Correlation analysis
+- Hypothesis testing
+- Chi-square tests
+- Statistical inference
 
-Seaborn
+### Machine Learning
 
-Interactive dashboards
+- Linear and logistic regression
+- Ridge and Lasso regularization
+- Decision trees
+- Random forests
+- Gradient boosting
+- Clustering algorithms
+- Model evaluation and validation
 
-Statistical Analysis
+### Time Series & Financial Modelling
 
-Descriptive statistics
+- Lagged regression
+- Autoregressive (AR) models
+- Autoregressive Moving Average (ARMA) models
+- Generalized Autoregressive Conditional Heteroskedasticity (GARCH)
 
-Correlation analysis
+### Databases & Data Engineering
 
-Hypothesis testing
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
+</p>
 
-Chi-square tests
+- SQL queries
+- JSON data handling
+- Database operations
+- ETL pipelines
 
-Statistical inference
+### Software Engineering
 
-Machine Learning
+- Test-driven development (TDD)
+- Model reproducibility
+- Data pipelines
+- Packaging and deployment
 
-Linear and logistic regression
+> **Note:** This section represents the technical skills and methodologies covered by the lab. Specific tools and techniques will be marked as applied as the corresponding projects are completed.
 
-Ridge and Lasso regularization
+---
 
-Decision trees
+## 🎯 The Bigger Picture
 
-Random forests
+Beyond completing the individual projects, I aim to strengthen my ability to:
 
-Gradient boosting
+- Approach real-world problems with analytical and statistical thinking.
+- Select appropriate methodologies based on the problem and available data.
+- Build machine learning models that generalize beyond training data.
+- Interpret results and communicate findings effectively.
+- Translate data-driven insights into practical business and decision-making applications.
+- Develop reproducible and deployable data science solutions.
 
-Clustering algorithms
+This repository will continue to evolve throughout my learning journey, documenting not only the models I build but also the analytical reasoning, challenges, discoveries, and lessons behind them.
 
-Model evaluation and validation
+---
 
-Time Series and Financial Modelling
+## 📌 Repository Information
 
-Lagged regression
+| | |
+|:---|:---|
+| **Institution** | WorldQuant University |
+| **Program** | Applied Data Science Lab |
+| **Projects** | 8 |
+| **Learning Format** | Self-paced, hands-on projects |
+| **Focus Areas** | Data Science, Statistics, Machine Learning & Applied Analytics |
+| **Repository Status** | In Progress |
 
-Autoregressive (AR) models
+---
 
-Autoregressive Moving Average (ARMA) models
-
-Generalized Autoregressive Conditional Heteroskedasticity (GARCH)
-
-Databases and Data Engineering
-
-MongoDB
-
-SQLite
-
-JSON data
-
-SQL queries
-
-ETL pipelines
-
-Software Engineering
-
-Test-driven development
-
-Model reproducibility
-
-Data pipelines
-
-Packaging and deployment
-
-This is the technology and methodology roadmap covered by the lab. Specific tools and techniques will be marked as applied as the corresponding projects are completed.
+<p align="center">
+  <b>From raw data to meaningful insights. From models to real-world impact.</b>
+  <br/>
+  <i>Documenting the journey, one project at a time.</i>
+</p>
